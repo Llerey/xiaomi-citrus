@@ -1,6 +1,6 @@
-deviceinfo_name="Xiaomi Poco M3"
+deviceinfo_name="Xiaomi Redmi 9T"
 deviceinfo_manufacturer="Xiaomi"
-deviceinfo_codename="citrus"
+deviceinfo_codename="lemon"
 deviceinfo_arch="aarch64"
 deviceinfo_kernel_source="https://github.com/Llerey/xiaomi_bengal_halium.git"
 deviceinfo_kernel_source_branch="11.0"
